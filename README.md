@@ -22,15 +22,15 @@ Crystal Alien is a functional 2D platformer where players control an alien chara
 
 ## 🚀 Setup & Execution
 
-Install dependencies:
 The game requires the pgzero library to handle the game loop and rendering.
 
-### Installation
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/brasarlington/crystal-alien.git](https://github.com/brasarlington/crystal-alien.git)
    cd crystal-alien
 2. **Install the pgzero module:** 
-
-```bash
-pip install pgzero
+   ```bash
+   pip install pgzero
+3. Launch the game using the Pygame Zero runner:
+   ```bash
+   pgzrun game.py
